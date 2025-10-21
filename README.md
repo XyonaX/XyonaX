@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">🧑🏻‍💻  Sobre mí:<br><br>🎓 Estudiante de Análisista de Sistemas.<br>💻 Desarrollador FullStack.<br>🚀 Entusiasta de la tecnología blockchain y las criptomonedas.<br>📚 Apasionado por el aprendizaje constante y los desafíos técnicos.<br><br>Puedes contactarme a jonatan.vargasportillo@gmail.com</p>
+<p align="left">🧑🏻‍💻  Sobre mí:<br><br>🎓 Estudiante de Análista de Sistemas.<br>💻 Desarrollador FullStack.<br>🚀 Entusiasta de la tecnología blockchain y las criptomonedas.<br>📚 Apasionado por el aprendizaje constante y los desafíos técnicos.<br><br>Puedes contactarme a jonatan.vargasportillo@gmail.com</p>
 
 ###
 
